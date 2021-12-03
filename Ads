@@ -31,7 +31,7 @@
 
 "title":"ဆားဗားပြင်ဆင်နေပါသည်။",
 "about":"ဆော့ဝဲဆားဗားအားပြင်ဆင်နေပါသဖြင့်ကျေးဇူးပြုပြီးသည်းခံပေးပါ။",
-"update":"com.allkarloekar.apyarkarassun",
+"update":"com.apyar.fullkar",
 "version":"1"
 
 

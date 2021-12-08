@@ -46,7 +46,7 @@
 
 "game":" https://mmsexygames.blogspot.com",
         
-
+"demact":"https://www.pexels.com/",
 
 "AappId":"ca-app-pub-6602096076242948~6865846628",
 "Abanner":"ca-app-pub-6602096076242948/8852865650",

@@ -1,4 +1,4 @@
-{"status":false, 
+{"status":true, 
 
 "alinkone":"https://aratpm.github.io/repa/", 
 "alinktwo":"https://aratpm.github.io/repa/",
@@ -48,16 +48,16 @@
         
 "demact":"https://www.pexels.com/",
 
-"AappId":"ca-app-pub-6602096076242948~6865846628",
-"Abanner":"ca-app-pub-6602096076242948/8852865650",
-"Ainterstial":"ca-app-pub-6602096076242948/4913620640",
-"AAppOpen":"ca-app-pub-6602096076242948/2287457301",
+"appId":"ca-app-pub-6602096076242948~6865846628",
+"banner":"ca-app-pub-6602096076242948/8852865650",
+"interstial":"ca-app-pub-6602096076242948/4913620640",
+"AppOpen":"ca-app-pub-6602096076242948/2287457301",
 
 
-"appId":"ca-app-pub-3940256099942544~3347511713",
-"banner":"ca-app-pub-3940256099942544/6300978111",
-"interstial":"ca-app-pub-3940256099942544/1033173712",
-"AppOpen":"ca-app-pub-3940256099942544/3419835294",
+"TappId":"ca-app-pub-3940256099942544~3347511713",
+"Tbanner":"ca-app-pub-3940256099942544/6300978111",
+"Tinterstial":"ca-app-pub-3940256099942544/1033173712",
+"TAppOpen":"ca-app-pub-3940256099942544/3419835294",
 
 
 

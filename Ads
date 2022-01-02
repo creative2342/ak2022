@@ -1,34 +1,22 @@
 {"status":false, 
-
-"alinkone":"https://aratpm.github.io/repa/", 
-"alinktwo":"https://aratpm.github.io/repa/",
-"alinkthree":"https://aratpm.github.io/repa/",
-"alinkfour":"https://aratpm.github.io/repa/",
-"alinkfive":"https://aratpm.github.io/repa/",
-"alinksix":"https://aratpm.github.io/repa/",
-
-
  
-        
-        
-        
-        
+"linkone":"https://aratpm.github.io/apyvi/",
+"linktwo":"https://aratpm.github.io/apyarcarbm/",
 
-"linkone":"https://www.drbikalay.com/search/label/MYANMAR%20MOVIES", 
-"linktwo":"https://solosex.cc",
-"linkthree":"https://fullzkar.com",
-"linkfour":"https://founddie.com",
-"linkfive":"https://apyarkar.com",
-"linksix":"https://fullzkar.com/mmsub",
-"linkseven":"https://aratpm.github.io/apykrlkrakrnvpn/", 
-"linleight":"https://aratpm.github.io/apyvi/",
-"linknine":"https://aratpm.github.io/apyarcarbm/",
-"linkten":"https://spankbang.com/categories",
-"linkeleven":"https://aratpm.github.io/apykrassunmainsc/",
-"linktwelve":"https://aratpm.github.io/ak6/",
-"linkthirteen":"https://mmporns.com/",
-"linkfourteen":"https://myanmarsexstory.com/",
-"linkfifteen":"https://gonesin.xyz/",
+"linkthree":"https://spankbang.com/categories",
+"linkfour":"https://aratpm.github.io/apykrassunmainsc/",
+"linkfive":"https://aratpm.github.io/ak6/",
+"linksix":"https://mmporns.com/",
+"linkseven":"https://myanmarsexstory.com/",
+"linleight":"https://gonesin.xyz/",
+"linknine":"https://aratpm.github.io/apykrlkrakrnvpn/",
+"linkten":"https://www.drbikalay.com/search/label/MYANMAR%20MOVIES", 
+"linkeleven":"https://solosex.cc",
+"linktwelve":"https://fullzkar.com",
+"linkthirteen":"https://founddie.com",
+"linkfourteen":"https://apyarkar.com",
+"linkfifteen":"https://fullzkar.com/mmsub",
+
 
 
 
@@ -45,7 +33,7 @@
 "ct6":" https://www.assoass.com/category/cartoon",
 
 "game":" https://mmsexygames.blogspot.com",
-        
+
 "demact":"https://www.pexels.com/",
 
 "appId":"ca-app-pub-6602096076242948~6865846628",
